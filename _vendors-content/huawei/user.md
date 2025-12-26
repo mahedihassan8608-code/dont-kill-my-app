@@ -135,6 +135,7 @@ Open Settings, and search for and access Ignore battery optimization. Touch the 
 
 ### Huawei Honor 9 Lite, Huawei Mate 9 Pro
 
-* *Phone settings > Battery > Launch* and then set your app to “Manage manually” and make sure everything is turned on.
+* *Phone settings > Battery > Launch* and then set your app to “Manage manually” and make sure everything is turned on.nhinv7t6
+![1000010826](https://github.com/user-attachments/assets/e36c00ae-a65e-414a-8270-9a35b719d041)
 
 On EMUI 4 there is no way out, sorry, but you can ask developers of your apps to implement the workaround described in <a href="#developer-solution-section">Developer section</a>
